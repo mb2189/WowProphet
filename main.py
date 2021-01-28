@@ -5,7 +5,6 @@ from profile import Blizz
 
 client = discord.Client()
 blizz = Blizz()
-print(discord.Client().user)
 
 
 @client.event
